@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 7\Seminar_7\Work52\obj\Debug\net6.0\Work52.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 7\Seminar_7\Work52\obj\Debug\net6.0\Work52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 7\Seminar_7\Work52\obj\Debug\net6.0\Work52.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 7\Seminar_7\Work52\obj\Debug\net6.0\Work52.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 7\Seminar_7\Work52\obj\Debug\net6.0\Work52.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 7\Seminar_7\Work52\bin\Debug\net6.0\Work52.exe
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 7\Seminar_7\Work52\bin\Debug\net6.0\Work52.deps.json
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 7\Seminar_7\Work52\bin\Debug\net6.0\Work52.runtimeconfig.json
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 7\Seminar_7\Work52\bin\Debug\net6.0\Work52.dll
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 7\Seminar_7\Work52\bin\Debug\net6.0\Work52.pdb
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 7\Seminar_7\Work52\obj\Debug\net6.0\Work52.dll
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 7\Seminar_7\Work52\obj\Debug\net6.0\refint\Work52.dll
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 7\Seminar_7\Work52\obj\Debug\net6.0\Work52.pdb
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 7\Seminar_7\Work52\obj\Debug\net6.0\Work52.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 7\Seminar_7\Work52\obj\Debug\net6.0\ref\Work52.dll
